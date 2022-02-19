@@ -140,7 +140,7 @@ urlpatterns = [
 ```
 ## OUTPUT:
 
-![myproject](a1.png)
+![myproject](a2.png)
 
 
 
